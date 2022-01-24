@@ -1,19 +1,6 @@
 {
   "build_entry_point": "op",
-  "docsets_to_publish": [
-    {
-      "docset_name": "DocsLegal",
-      "build_source_folder": "DocsLegal",
-      "build_output_subfolder": "DocsLegal",
-      "locale": "bs-Cyrl-BA",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "version": 0
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "branches_to_filter": [
     "live-sxs",
